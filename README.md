@@ -2,6 +2,8 @@
 
 ![](./res/Sorting%20Algorithms%20-%20Imgur.gif)
 
+***[gif source](https://imgur.com/user/Speenah)***
+
 ## Description
 A collection of sorting algorithms implemented in C to see the advantages and disadvantages of each one of them
 
